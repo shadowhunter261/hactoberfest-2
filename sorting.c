@@ -16,6 +16,6 @@ int main() {
      for(i=0;i<N;i++){
         printf("%d ",X[i]);
     }
-    printf("\n----------Sorted--------------");
+    printf("Sorted");
     
 }
